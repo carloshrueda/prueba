@@ -1,0 +1,10 @@
+def factura():
+    print("====================")
+    print("  FACTURACIÓN DEL 2024")
+    print("====================")
+    print(" MESES")
+    print("-------------")
+    print("06 ****")
+    print("07 ****")
+    print("08 ****")
+    print("09 ****")
